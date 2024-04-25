@@ -1,0 +1,3 @@
+Esse programa é para ser usado de forma opcional, caso você deseje verificar se o Antix esta funcionando depois que você fez a configuraçao conforme explicações na prova.
+
+Lembre de garantir que o Firewall esta desativado.
